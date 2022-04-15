@@ -26,7 +26,7 @@ module.exports = () => {
       
       // Injects our custom Service worker
       new InjectManifest({
-        swSrc: './srx-sw.js',
+        swSrc: './src-sw.js',
         swDest: 'src-sw.js',
       }),
 

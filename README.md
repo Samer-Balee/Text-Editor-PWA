@@ -14,7 +14,7 @@
    
   ## Instalation
    
-   A link to the application deployed to Heroku is here: [Text-Editor-PWA](https://sb-text-editor-pwa.herokuapp.com/)
+   A link to the application deployed to Heroku is here: [Text-Editor-PWA](https://text-editor-pwa-sb.herokuapp.com/)
 
   ## Usage
 
